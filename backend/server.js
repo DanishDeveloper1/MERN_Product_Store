@@ -8,7 +8,7 @@ import productRoutes from "./routes/product.route.js";
 dotenv.config();
 const app = express();
 
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 3000;
 const __dirname = path.resolve();
 
 app.use(express.urlencoded({ extended: false }));
