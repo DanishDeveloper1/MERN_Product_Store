@@ -103,4 +103,4 @@ frontend/
 
 ## Author
 
-Md Danish - [GitHub](https://github.com/DanishDeveloper1) | [LinkedIn](https://www.linkedin.com/in/danishdeveloper) | [LeetCode](https://leetcode.com/u/DanishDeveloper1/)
+Md Danish - [GitHub](https://github.com/DanishDeveloper1) | [LinkedIn](https://www.linkedin.com/in/danishdeveloper)
